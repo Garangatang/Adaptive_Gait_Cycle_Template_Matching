@@ -1,4 +1,4 @@
-# Gait_Cycle_Template_Matching
+# Adaptive_Gait_Cycle_Template_Matching
 
 ## What is it
 
